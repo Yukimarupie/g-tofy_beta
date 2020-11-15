@@ -1,24 +1,11 @@
-# README
+# What 'G-TOFY' is?
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+捨て犬・猫の里親募集・ボランティア活動費の資金調達メディアです。
 
-Things you may want to cover:
+「既存の里親募集サイトは、ごちゃごちゃしていて古いレイアウトのサイトが多く、正直使いづらい」
+「ボランテイア活動のためのクラウドファンディング機能がついた日本向けの里親サイトがない」
+という現状の課題を解決するために作成しました。
+#
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
