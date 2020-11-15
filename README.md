@@ -54,5 +54,9 @@
 そんなたいそうで近寄りがたい存在である「ボランティア」という物が、より気軽に、より身近に、いつか当たり前にできるようなサービスがあればいいなと思って作りました。
 
   
+# 要件定義
+
+https://docs.google.com/spreadsheets/d/1Q30pr9P4FE63QjnVpXB9WkUUxudlZbsYJ-IbX7coaWw/edit?usp=sharing
+
 
 # HOW TO USE
