@@ -1,5 +1,5 @@
 # G-TOFYとは？
-## GIVING TO OTHERS FOR YOURSELF
+### GIVING TO OTHERS FOR YOURSELF
   
 「与える事が自分のためにもなる」がテーマの、捨て犬・猫の里親募集・ボランティア活動費の資金調達メディアです。  
 
