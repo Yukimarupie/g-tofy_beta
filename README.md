@@ -1,4 +1,4 @@
-# What's G-TOFY is?
+# What G-TOFY is?
 ### GIVING TO OTHERS FOR YOURSELF
   
 「自分の為って名目でいいから、自分以外の人・物の為に何かしてみよーよ！」がテーマの、動物向け里親募集・ボランティア活動費の資金調達メディアです。  
